@@ -1,0 +1,8 @@
+[package]
+name = "hex"
+description = "Converts stdin {to,from} hex."
+version = "0.1.0"
+authors = ["Andrew Dirksen <andrew@dirksen.com>"]
+
+[dependencies]
+clap = "2.32.0"
