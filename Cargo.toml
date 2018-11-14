@@ -3,6 +3,7 @@ name = "hex"
 description = "Converts stdin {to,from} hex."
 version = "0.1.0"
 authors = ["Andrew Dirksen <andrew@dirksen.com>"]
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 clap = "2.32.0"
